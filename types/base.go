@@ -2,7 +2,7 @@ package types
 
 import (
 	"fmt"
-	"github.com/itering/scale.go/utiles"
+	"github.com/stafiprotocol/scale.go/utiles"
 	"reflect"
 	"regexp"
 	"strings"

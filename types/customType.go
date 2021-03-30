@@ -1,8 +1,8 @@
 package types
 
 import (
-	"github.com/itering/scale.go/source"
-	"github.com/itering/scale.go/utiles"
+	"github.com/stafiprotocol/scale.go/source"
+	"github.com/stafiprotocol/scale.go/utiles"
 	"regexp"
 	"strings"
 )

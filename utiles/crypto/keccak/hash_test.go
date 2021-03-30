@@ -1,7 +1,7 @@
 package keccak
 
 import (
-	"github.com/itering/scale.go/utiles"
+	"github.com/stafiprotocol/scale.go/utiles"
 	"testing"
 )
 

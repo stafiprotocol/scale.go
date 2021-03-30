@@ -3,7 +3,7 @@ package types
 import (
 	"bytes"
 	"encoding/binary"
-	"github.com/itering/scale.go/utiles"
+	"github.com/stafiprotocol/scale.go/utiles"
 	"github.com/shopspring/decimal"
 	"io"
 	"math"

@@ -3,10 +3,10 @@ package scalecodec_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/itering/scale.go"
-	"github.com/itering/scale.go/source"
-	"github.com/itering/scale.go/types"
-	"github.com/itering/scale.go/utiles"
+	"github.com/stafiprotocol/scale.go"
+	"github.com/stafiprotocol/scale.go/source"
+	"github.com/stafiprotocol/scale.go/types"
+	"github.com/stafiprotocol/scale.go/utiles"
 	"io/ioutil"
 	"testing"
 )
